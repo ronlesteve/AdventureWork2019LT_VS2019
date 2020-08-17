@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "AdventureWork2019LT_VS2019", "AdventureWork2019LT_VS2019\AdventureWork2019LT_VS2019.sqlproj", "{0299AF61-448C-4BE6-9723-2D3AF3EDC11E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0299AF61-448C-4BE6-9723-2D3AF3EDC11E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0299AF61-448C-4BE6-9723-2D3AF3EDC11E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0299AF61-448C-4BE6-9723-2D3AF3EDC11E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{0299AF61-448C-4BE6-9723-2D3AF3EDC11E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0299AF61-448C-4BE6-9723-2D3AF3EDC11E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0299AF61-448C-4BE6-9723-2D3AF3EDC11E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D848B016-959E-4899-9581-6A677966FA5D}
+	EndGlobalSection
+EndGlobal
